@@ -40,7 +40,7 @@ Alla prima apertura la Home ti indica i passaggi da completare. Crea una congreg
 
 #### Registro e calendario
 
-- **Prossimi appuntamenti** mostra quelli ancora da svolgere. Apri una scheda per modificarla, duplicarla o annullarla. Su smartphone puoi far scorrere una scheda per vedere le azioni disponibili.
+- **Prossimi appuntamenti** mostra quelli ancora da svolgere. Apri una scheda per modificarla, duplicarla o annullarla. Su smartphone puoi far scorrere una scheda per vedere le azioni disponibili. Usa **Elimina appuntamento** per rimuoverlo dall’agenda quando il comando è disponibile.
 - Nel **Registro** trovi gli appuntamenti passati con il loro stato. Con **Cerca nel registro** puoi cercare per titolo, contatto o luogo. Gli appuntamenti in attesa di conferma si possono segnare come svolti. Se inserisci un appuntamento già passato, BroTime ti chiede di confermare che si sia svolto. Gli incontri confermati alimentano le statistiche e l’ultima volta insieme.
 - Un appuntamento **annullato** resta nel Registro fino al termine del giorno per cui era fissato. Le azioni disponibili sono **Duplica** e **Riattiva**.
 - **Aggiungi al calendario dopo il salvataggio** apre un’anteprima. Dai dettagli di un appuntamento puoi accedere in seguito alla stessa funzione. Puoi aprire il calendario del dispositivo, Google Calendar o Outlook, oppure scaricare o condividere il file `.ics`. Il file è scaricabile anche offline e propone un’ora di durata, modificabile nel calendario. Le copie già importate si gestiscono dal calendario in cui le hai salvate.
@@ -63,7 +63,7 @@ Imposta il nome, il luogo della congregazione, l’indirizzo della Sala del Regn
 - **Aggiungi adunanza** permette di scegliere il giorno della settimana, l’ora e il luogo. Puoi usare Casa Fam., la Sala del Regno, un luogo preferito o un indirizzo manuale.
 - Spuntando **Gruppo di Servizio** puoi indicare facoltativamente un luogo abituale e assegnare un luogo a una data specifica. Le altre adunanze conservano il luogo settimanale che hai impostato finché lo modifichi.
 - Sulle schede salvate trovi **Modifica**, **Cambia Luogo** ed **Elimina**. Per creare un’altra adunanza dagli stessi dati, tocca l’icona di copia o tieni premuta la scheda in **Congregazione**.
-- Le adunanze del giorno compaiono anche in **Home** e **Ministero**. Le schede mostrano il luogo, l’ora e l’indirizzo disponibile, con **Vai ora** per la navigazione.
+- Le adunanze del giorno compaiono anche in **Home** e **Ministero** e restano visibili fino a 30 minuti dopo l’orario di inizio. Le schede mostrano il luogo, l’ora e l’indirizzo disponibile, con **Vai ora** per la navigazione.
 
 ### Stats
 
