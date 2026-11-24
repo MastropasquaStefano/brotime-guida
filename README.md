@@ -15,7 +15,7 @@ BroTime è un’agenda personale in italiano per organizzare il ministero e lo s
 
 ### Home
 
-Alla prima apertura la Home ti indica i passaggi da completare. Crea una congregazione e aggiungi almeno un componente per iniziare a organizzare gli appuntamenti. Al primo accesso con un nuovo account puoi seguire il tutorial, saltarlo o riaprirlo dal Profilo.
+Alla prima apertura la Home ti indica i passaggi da completare. Crea una congregazione e aggiungi almeno un componente per iniziare a organizzare gli appuntamenti. Al primo accesso con un nuovo account, il tutorial ti spiega in quattro passaggi come impostare la congregazione, aggiungere partecipanti, fissare il primo appuntamento e ritrovarlo in Home e nel Registro. Puoi saltarlo e riaprirlo dal Profilo.
 
 - **Prossimi appuntamenti** riunisce in ordine di orario gli impegni di Ministero e Svago e le adunanze di servizio del giorno. Le schede mostrano data, ora e luogo. Tocca un appuntamento per aprirne i dettagli, oppure **Vai ora** per scegliere come raggiungere l’indirizzo salvato.
 - **Duplica** apre una nuova scheda precompilata con i dati dell’appuntamento. Scegli la nuova data e ora. Puoi usare l’icona di copia in alto a destra o tenere premuta la scheda su smartphone. Le adunanze di servizio si duplicano da **Congregazione**.
@@ -81,7 +81,8 @@ Scegli **Ministero** o **Svago** e il periodo da esaminare. Puoi usare tutto lo 
 - **Sincronizzazione** salva le modifiche sul dispositivo e le sincronizza con l’account quando la rete è disponibile. Se due copie divergono puoi scegliere dal Profilo come risolvere la differenza. Durante la disconnessione puoi scegliere se mantenere una copia sul dispositivo.
 - **Dati eliminati** permette di recuperare per 30 giorni i dati ospite messi da parte al momento dell’accesso, dallo stesso browser. Quando trasferisci i dati ospite e hai già una congregazione attiva, quella importata va tra le archiviate.
 - **Inizializzazione dati** mostra le selezioni dopo aver premuto **Inizializza**. Puoi scegliere separatamente gli eventi e i registri di Svago e Ministero, tutti i componenti, tutte le famiglie, i luoghi preferiti, le adunanze di servizio e la congregazione. Eliminare tutti i componenti seleziona anche tutte le famiglie. Selezionare **Congregazione** include tutte le altre categorie e le congregazioni archiviate. Puoi scaricare un backup prima della conferma finale.
-- **Tutorial** riapre la presentazione guidata. **Segnala un Problema** permette agli utenti connessi di inviare oggetto e messaggio insieme all’email dell’account e all’ora di invio.
+- **Tutorial → Apri tutorial** apre l’indice. Scegli **Primi passi** per ripercorrere il tutorial del primo accesso o apri un capitolo su adunanze di servizio, luoghi preferiti e calendario, Stats, backup e sincronizzazione o uso offline. Usa **Torna all’indice** per scegliere un altro argomento.
+- **Segnala un Problema** permette agli utenti connessi di inviare oggetto e messaggio insieme all’email dell’account e all’ora di invio.
 - **Versione App** mostra il numero di versione e la data di aggiornamento. **Note di rilascio** apre lo storico delle novità. Il collegamento subito sotto apre questa guida su GitHub.
 - **Eliminazione account** consente di scaricare prima un archivio JSON dei dati disponibili e di confermare l’eliminazione dell’account.
 - **Informazioni su BroTime** descrive lo scopo dell’app.
