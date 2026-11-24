@@ -27,7 +27,7 @@ Alla prima apertura la Home ti indica i passaggi da completare. Crea una congreg
 
 #### Creare o modificare un appuntamento
 
-1. Aggiungi un appuntamento e scegli la data e l’ora. Per ogni partecipante puoi scegliere dal menu **Componenti** o **Famiglie**. Il campo di ricerca ti aiuta a trovare il nome. Puoi aggiungere più partecipanti e rimuoverli prima di salvare.
+1. Aggiungi un appuntamento e scegli la data e l’ora. Apri **Seleziona componente / famiglia**, scegli la scheda **Componenti** o **Famiglie** e cerca il nome. Puoi toccare un nome già selezionato per cambiarlo, aggiungere altri partecipanti o rimuoverli prima di salvare. Il titolo, la freccia Indietro e la X restano visibili mentre scorri il modulo.
 2. Scegli il luogo. Puoi usare l’indirizzo di casa, quello di una persona o famiglia selezionata, la Sala del Regno, un luogo preferito o un indirizzo inserito a mano. Se scegli la casa di un partecipante, puoi indicare chi ospita e aggiornare il suo indirizzo in rubrica.
 3. Indica se hai fatto o ricevuto l’invito, oppure lascia **Non specificato**. Il modulo mostra la data e il luogo dell’ultimo incontro svolto della stessa tipologia con il contatto, se presente.
 4. Salva. BroTime avvisa se un altro impegno è a 30 minuti o meno. Se un appuntamento è alla stessa ora puoi sostituirlo confermandone l’annullamento. Se coincide con l’orario di un’adunanza, scegli un altro orario.
