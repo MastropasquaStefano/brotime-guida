@@ -76,6 +76,7 @@ Scegli **Ministero** o **Svago** e il periodo da esaminare. Puoi usare tutto lo 
 ### Profilo
 
 - **Area personale** permette di registrarti o accedere con email e password. Dopo l’accesso puoi salvare o modificare l’indirizzo di casa da richiamare negli appuntamenti. Puoi anche usare l’agenda come ospite sul dispositivo.
+  - Per recuperare l’accesso, apri **Accedi → Password dimenticata?**, inserisci l’email dell’account e tocca **Invia link di recupero**. Apri l’email anche da smartphone e imposta la nuova password. Se il link non è più valido, richiedine un altro.
 - **Congregazioni archiviate** apre gli archivi per consultarne i dati.
 - **Esporta e importa dati** consente di scegliere una congregazione e le categorie da includere in un file JSON da scaricare o condividere. Chi lo riceve può esaminare il contenuto prima di importarlo nella congregazione attiva o come congregazione archiviata. BroTime salta le schede già importate nella stessa destinazione.
 - **Sincronizzazione** aggiorna automaticamente l’agenda sui dispositivi collegati allo stesso account. Se aggiungi un appuntamento dal telefono offline e correggi un indirizzo dal PC, quando il telefono torna online BroTime conserva entrambe le modifiche. Se sposti lo stesso appuntamento alle 16:00 sul telefono e alle 17:00 sul PC prima che si sincronizzino, apri **Profilo → Sincronizzazione** e scegli quale orario mantenere. Le altre modifiche continuano a sincronizzarsi. Durante la disconnessione puoi scegliere se mantenere una copia sul dispositivo.
