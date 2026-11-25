@@ -63,7 +63,7 @@ Imposta il nome, il luogo della congregazione, l’indirizzo della Sala del Regn
 - **Aggiungi adunanza** permette di scegliere il giorno della settimana, l’ora e il luogo. Puoi usare Casa Fam., la Sala del Regno, un luogo preferito o un indirizzo manuale.
 - Spuntando **Gruppo di Servizio** puoi indicare facoltativamente un luogo abituale e assegnare un luogo a una data specifica. Le altre adunanze conservano il luogo settimanale che hai impostato finché lo modifichi.
 - Sulle schede salvate trovi **Modifica**, **Cambia Luogo** ed **Elimina**. Per creare un’altra adunanza dagli stessi dati, tocca l’icona di copia o tieni premuta la scheda in **Congregazione**.
-- Le adunanze del giorno compaiono anche in **Home** e **Ministero** e restano visibili fino a 30 minuti dopo l’orario di inizio. Le schede mostrano il luogo, l’ora e l’indirizzo disponibile, con **Vai ora** per la navigazione.
+- Le adunanze del giorno compaiono in **Home** e **Ministero** con l’etichetta **Adunanza di Servizio** e restano visibili fino a 30 minuti dopo l’orario di inizio. Le schede mostrano il luogo, l’ora e l’indirizzo disponibile, con **Vai ora** per la navigazione.
 
 ### Stats
 
