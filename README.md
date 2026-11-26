@@ -51,6 +51,11 @@ Alla prima apertura la Home ti indica i passaggi da completare. Crea una congreg
 
 Imposta il nome, il luogo della congregazione, l’indirizzo della Sala del Regno e gli orari delle adunanze infrasettimanale e del fine settimana. L’indirizzo della Sala si può riutilizzare come luogo di appuntamenti e adunanze di servizio. Se cambi congregazione, puoi archiviare quella attiva e consultarla successivamente dal Profilo.
 
+- **Modifica congregazione** è la matita in alto a destra sulla scheda. Su smartphone puoi far scorrere la scheda verso destra per mostrare la stessa azione. **Archivia** mette da parte la congregazione e il suo storico.
+- **Condividi** invia per email un invito personale con le impostazioni, i componenti, le famiglie e le adunanze di servizio. Se usi BroTime come ospite, accedi e trasferisci la congregazione al tuo account per riprendere l’invio.
+- Apri **Importa** nell’email entro sette giorni e accedi con l’indirizzo che ha ricevuto l’invito. Se non trovi il messaggio, controlla anche Spam o Posta indesiderata. Se crei un account, conferma l’indirizzo e torna a BroTime. Il link resta disponibile fino all’importazione riuscita. Al primo accesso il tutorial si apre dopo l’importazione.
+- Se hai già una congregazione attiva, **Archivia e sostituisci** conserva quella attuale e il suo storico nel Profilo e attiva quella ricevuta. **Unisci alla congregazione attuale** mostra un’anteprima di nuove schede, possibili duplicati e differenze. Scegli i valori e le adunanze da conservare, poi conferma. Se non hai una congregazione attiva, quella importata diventa attiva.
+
 #### Componenti e famiglie
 
 - **Componenti** è la rubrica della congregazione. Puoi cercare, ordinare per nome o cognome, aggiungere, modificare, selezionare ed eliminare le schede. Puoi salvare telefono, email e indirizzo con segnalino e aprire i recapiti o l’indirizzo dalla scheda.
