@@ -13,7 +13,7 @@ BroTime è un’agenda personale in italiano per organizzare il ministero e lo s
 - [Profilo](#profilo)
 - [Installazione, aggiornamenti e uso offline](#installazione-aggiornamenti-e-uso-offline)
 
-Quando crei o modifichi una scheda, il titolo, la freccia **Indietro** e la **X** restano visibili in alto mentre scorri il modulo.
+Quando crei o modifichi una scheda, il titolo, la freccia **Indietro**, l’icona **Salva** e la **X** restano visibili in alto mentre scorri il modulo. L’icona **Salva** esegue gli stessi controlli del pulsante in fondo.
 
 ### Home
 
@@ -36,7 +36,8 @@ Alla prima apertura la Home ti indica i passaggi da completare. Crea una congreg
 
 #### Indirizzi, luoghi preferiti e navigazione
 
-- **Cerca un indirizzo** anche iniziando da via e civico. Seleziona un suggerimento per usare l’indirizzo e il punto sulla mappa. Puoi anche inserire l’indirizzo a mano, spostare il segnalino o indicare le coordinate. Nelle mappe modificabili, tocca il mirino **Usa la mia posizione** e consenti al browser di rilevare la posizione. Controlla latitudine e longitudine, poi tocca **Salva posizione**.
+- **Cerca un indirizzo** anche iniziando da via e civico. Puoi inserire l’indirizzo a mano, spostare il segnalino o indicare le coordinate. Nelle mappe modificabili, tocca il mirino **Usa la mia posizione** e consenti al browser di rilevare la posizione. Controlla latitudine e longitudine, poi tocca **Salva posizione**.
+- Con Google Maps, seleziona un suggerimento per visualizzare il punto in anteprima. Con **Cerca indirizzo dal segnalino** puoi consultare l’indirizzo vicino al punto scelto. BroTime salva il testo che inserisci e le coordinate che indichi con il segnalino, i campi o il mirino. Se la cartografia o la ricerca raggiungono il limite mensile, puoi continuare a inserire indirizzi e coordinate e ad aprire il navigatore.
 - **Gestisci luoghi preferiti**, in **Ministero**, permette di aggiungere, modificare ed eliminare i luoghi che usi spesso. Puoi richiamarli anche dagli appuntamenti di Svago e dalle adunanze di servizio. Il modulo degli appuntamenti propone anche i luoghi recenti.
 - **Vai ora** apre la scelta per la navigazione, per esempio Mappe, Google Maps o Waze. Nei dettagli dell’appuntamento puoi consultare i partecipanti e i recapiti disponibili e chiamare o aprire WhatsApp quando è presente un numero.
 
@@ -63,7 +64,7 @@ Imposta il nome, il luogo della congregazione, l’indirizzo della Sala del Regn
 - **Componenti** è la rubrica della congregazione. Puoi cercare, ordinare per nome o cognome, aggiungere, modificare, selezionare ed eliminare le schede. Puoi salvare telefono, email e indirizzo con segnalino e aprire i recapiti o l’indirizzo dalla scheda.
 - **Unisci componenti** accorpa due schede della stessa persona scegliendo, per ogni dato, quale valore conservare.
 - **Importa dalla rubrica** apre la rubrica del dispositivo nei browser compatibili. Se apri un file vCard, BroTime esclude i contatti già presenti. Puoi cercare per nome o recapito mentre scrivi e ordinare per nome o cognome. Se il file contiene date di creazione, puoi vedere prima le schede più recenti. Le schede senza data compaiono in fondo. La selezione resta valida anche quando cambi ricerca o ordinamento. Se nel file selezioni più schede con lo stesso nome e cognome, puoi importarle tutte, unirle scegliendo i recapiti o tenerne una. **Esporta contatti vCard** mostra come ottenere il file dalla rubrica del telefono.
-- **Famiglie** raggruppa i componenti. Quando crei o modifichi una famiglia, scegli i membri e il capofamiglia. Il cognome deriva dal capofamiglia. L’indirizzo e il segnalino sono condivisi. Quando salvi l’indirizzo nella scheda della famiglia o di un suo componente, BroTime aggiorna tutte le schede collegate. Anche i componenti che aggiungi in seguito ereditano l’indirizzo già salvato. Puoi selezionare la famiglia come partecipante o usarne l’indirizzo come luogo.
+- **Famiglie** raggruppa i componenti. In **Modifica famiglia** vedi il capofamiglia e l’elenco aggiornato dei componenti selezionati sopra la ricerca. Dalla scheda della famiglia puoi consultare l’indirizzo e aprire il navigatore. Per cambiare indirizzo o segnalino, apri **Modifica famiglia** e salva la scheda. BroTime aggiorna l’indirizzo di tutti i componenti anche quando lo modifichi nella scheda personale di uno di loro. I nuovi componenti ereditano indirizzo e coordinate della famiglia. Se la famiglia è priva di indirizzo, il componente conserva il proprio. Puoi selezionare la famiglia come partecipante o usarne l’indirizzo come luogo.
 
 #### Adunanze per il servizio di campo
 
