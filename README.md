@@ -13,6 +13,8 @@ BroTime è un’agenda personale in italiano per organizzare il ministero e lo s
 - [Profilo](#profilo)
 - [Installazione, aggiornamenti e uso offline](#installazione-aggiornamenti-e-uso-offline)
 
+Quando crei o modifichi una scheda, il titolo, la freccia **Indietro** e la **X** restano visibili in alto mentre scorri il modulo.
+
 ### Home
 
 Alla prima apertura la Home ti indica i passaggi da completare. Crea una congregazione e aggiungi almeno un componente per iniziare a organizzare gli appuntamenti. Al primo accesso con un nuovo account, il tutorial ti spiega in quattro passaggi come impostare la congregazione, aggiungere partecipanti, fissare il primo appuntamento e ritrovarlo in Home e nel Registro. Puoi saltarlo e riaprirlo dal Profilo.
@@ -27,14 +29,14 @@ Alla prima apertura la Home ti indica i passaggi da completare. Crea una congreg
 
 #### Creare o modificare un appuntamento
 
-1. Aggiungi un appuntamento e scegli la data e l’ora. Apri **Seleziona componente / famiglia**, scegli la scheda **Componenti** o **Famiglie** e cerca il nome. Puoi toccare un nome già selezionato per cambiarlo, aggiungere altri partecipanti o rimuoverli prima di salvare. Il titolo, la freccia Indietro e la X restano visibili mentre scorri il modulo.
+1. Aggiungi un appuntamento e scegli la data e l’ora. Apri **Seleziona componente / famiglia**, scegli la scheda **Componenti** o **Famiglie** e cerca il nome. Puoi toccare un nome già selezionato per cambiarlo, aggiungere altri partecipanti o rimuoverli prima di salvare.
 2. Scegli il luogo. Puoi usare l’indirizzo di casa, quello di una persona o famiglia selezionata, la Sala del Regno, un luogo preferito o un indirizzo inserito a mano. Se scegli la casa di un partecipante, puoi indicare chi ospita e aggiornare il suo indirizzo in rubrica.
 3. Indica se hai fatto o ricevuto l’invito, oppure lascia **Non specificato**. Il modulo mostra la data e il luogo dell’ultimo incontro svolto della stessa tipologia con il contatto, se presente.
 4. Salva. BroTime avvisa se un altro impegno è a 30 minuti o meno. Se un appuntamento è alla stessa ora puoi sostituirlo confermandone l’annullamento. Se coincide con l’orario di un’adunanza, scegli un altro orario.
 
 #### Indirizzi, luoghi preferiti e navigazione
 
-- **Cerca un indirizzo** anche iniziando da via e civico. Seleziona un suggerimento per usare l’indirizzo e il punto sulla mappa. Puoi anche inserire l’indirizzo a mano, spostare il segnalino o indicare le coordinate.
+- **Cerca un indirizzo** anche iniziando da via e civico. Seleziona un suggerimento per usare l’indirizzo e il punto sulla mappa. Puoi anche inserire l’indirizzo a mano, spostare il segnalino o indicare le coordinate. Nelle mappe modificabili, tocca il mirino **Usa la mia posizione** e consenti al browser di rilevare la posizione. Controlla latitudine e longitudine, poi tocca **Salva posizione**.
 - **Gestisci luoghi preferiti**, in **Ministero**, permette di aggiungere, modificare ed eliminare i luoghi che usi spesso. Puoi richiamarli anche dagli appuntamenti di Svago e dalle adunanze di servizio. Il modulo degli appuntamenti propone anche i luoghi recenti.
 - **Vai ora** apre la scelta per la navigazione, per esempio Mappe, Google Maps o Waze. Nei dettagli dell’appuntamento puoi consultare i partecipanti e i recapiti disponibili e chiamare o aprire WhatsApp quando è presente un numero.
 
