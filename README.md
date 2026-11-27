@@ -36,8 +36,8 @@ Alla prima apertura la Home ti indica i passaggi da completare. Crea una congreg
 
 #### Indirizzi, luoghi preferiti e navigazione
 
-- **Cerca un indirizzo** anche iniziando da via e civico. Puoi inserire l’indirizzo a mano, spostare il segnalino o indicare le coordinate. Nelle mappe modificabili, tocca il mirino **Usa la mia posizione** e consenti al browser di rilevare la posizione. Controlla latitudine e longitudine, poi tocca **Salva posizione**.
-- Seleziona un suggerimento per compilare **Indirizzo** e aggiornare il segnalino su Google Maps. Dopo aver spostato il segnalino o usato **Usa la mia posizione**, tocca **Salva posizione** per riportare nella bozza l’indirizzo rilevato e le coordinate scelte. Tocca **Salva** per confermare la scheda. Se chiudi il modulo, le modifiche alla bozza vengono scartate. La ricerca usa Photon con dati OpenStreetMap.
+- **Cerca un indirizzo** anche iniziando da via e civico. Puoi inserire l’indirizzo a mano e scegliere il punto sulla mappa oppure usare il mirino **Usa la mia posizione**. Controlla il segnalino, poi tocca **Salva posizione**.
+- Seleziona un suggerimento per compilare **Indirizzo** e aggiornare il segnalino su Google Maps. Se il civico manca o è errato, puoi scrivere l’indirizzo a mano e scegliere il punto sulla mappa. **Salva posizione** aggiorna solo le coordinate nella bozza e mantiene il testo di **Indirizzo**. Tocca **Salva** per confermare la scheda. Se chiudi il modulo, le modifiche alla bozza vengono scartate. La ricerca usa Photon con dati OpenStreetMap.
 - **Gestisci luoghi preferiti**, in **Ministero**, permette di aggiungere, modificare ed eliminare i luoghi che usi spesso. Puoi richiamarli anche dagli appuntamenti di Svago e dalle adunanze di servizio. Il modulo degli appuntamenti propone anche i luoghi recenti.
 - **Vai ora** apre la scelta per la navigazione, per esempio Mappe, Google Maps o Waze. Nei dettagli dell’appuntamento puoi consultare i partecipanti e i recapiti disponibili e chiamare o aprire WhatsApp quando è presente un numero.
 
